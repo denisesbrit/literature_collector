@@ -1,0 +1,4 @@
+diabetes OR obesity AND child NOT coronary
+DBLP
+Cochrane Library
+PubMed
